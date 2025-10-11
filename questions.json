@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["New Delhi", "Mumbai", "Bangalore", "Chennai"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is used for web apps?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "HTML stands for?",
+    "options": ["Hyper Text Markup Language", "High Text Markup Language", "Hyper Tabular Markup Language", "None"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "CSS is used for?",
+    "options": ["Structure", "Styling", "Programming Logic", "Database"],
+    "answer": "Styling"
+  }
+]
